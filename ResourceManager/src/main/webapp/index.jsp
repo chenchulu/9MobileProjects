@@ -12,9 +12,12 @@ CR-02 changes done on CR01 at 2.54
 
 CR-02 Issue-1 fixed, 3.01
 
+CR-02 Issue-2 fixed, 3.13 web
+
 CR-02 Issue-3 fixed, 3.15
 
 CR-02 Issue-3 fixed, 3.14
+
 
 </body>
 </html>
